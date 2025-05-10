@@ -1,0 +1,38 @@
+{
+  "mysql": [
+    {
+      "version": "5.5.62",
+      "download_url": "https://mirrors.aliyun.com/mysql/MySQL-5.5/mysql-5.5.62-winx64.zip"
+    },
+    {
+      "version": "5.7.38",
+      "download_url": "https://mirrors.aliyun.com/mysql/MySQL-5.7/mysql-5.7.38-winx64.zip"
+    },
+    {
+      "version": "8.0.28",
+      "download_url": "https://mirrors.aliyun.com/mysql/MySQL-8.0/mysql-8.0.28-winx64.zip"
+    }
+  ],
+  "postgresql": [
+    {
+      "version": "17.4",
+      "download_url": "https://get.enterprisedb.com/postgresql/postgresql-17.4-2-windows-x64-binaries.zip"
+    },
+    {
+      "version": "16.8",
+      "download_url": "https://get.enterprisedb.com/postgresql/postgresql-16.8-2-windows-x64-binaries.zip"
+    },
+    {
+      "version": "15.12",
+      "download_url": "https://get.enterprisedb.com/postgresql/postgresql-15.12-2-windows-x64-binaries.zip"
+    },
+    {
+      "version": "14.17",
+      "download_url": "https://get.enterprisedb.com/postgresql/postgresql-14.17-2-windows-x64-binaries.zip"
+    },
+    {
+      "version": "13.20",
+      "download_url": "https://get.enterprisedb.com/postgresql/postgresql-13.20-2-windows-x64-binaries.zip"
+    }
+  ]
+}
